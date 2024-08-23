@@ -1,0 +1,6 @@
+path: /Users/karthik/Desktop/ShrimpDetection/cleaned_data
+train: train
+val: validation
+
+names:
+  0: fish
